@@ -1,0 +1,11 @@
+Timestamp,User Speech,Response,Status
+2025-04-18 00:29:34,System Startup,"Good Night Sir, See You Tomorrow",Running
+2025-04-18 00:29:50,what is weather today,"I need your location to provide today's weather.
+",Success
+2025-04-18 00:30:11,live in bhopal now tell me what's the weather today,"I do not have real-time access to weather data.  Please use a dedicated weather app or website for specific local information.
+",Success
+2025-04-18 00:30:25,suggest me a novel to read,"""To Kill a Mockingbird"" by Harper Lee.
+",Success
+2025-04-18 00:30:37,take a screenshot,Screenshot saved at: C:\Users\shaiv\Downloads\project\chat-bot\sarthak\screenshots\screenshot_20250418_003037.png,Success
+2025-04-18 00:30:46,open powerpoint,Opening Microsoft PowerPoint,Success
+2025-04-18 00:31:02,open camera,Camera activated,Success

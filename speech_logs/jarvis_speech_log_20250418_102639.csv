@@ -1,0 +1,41 @@
+Timestamp,User Speech,Response,Status
+2025-04-18 10:26:48,System Startup,Good Morning Sir!,Running
+2025-04-18 10:27:29,excel,"What about Excel?  Need help with a specific task or formula?
+",Success
+2025-04-18 10:27:47,open,"Opening Excel.  (If I could actually interact with your system, I would open it now). Let me know what you'd like to do next.
+",Success
+2025-04-18 10:28:08,take a screenshot,Screenshot saved at: C:\Users\shaiv\Downloads\project\chat-bot\sarthak\screenshots\screenshot_20250418_102807.png,Success
+2025-04-18 10:28:17,screenshot screenshot,Screenshot saved at: C:\Users\shaiv\Downloads\project\chat-bot\sarthak\screenshots\screenshot_20250418_102817.png,Success
+2025-04-18 10:28:26,open word,Opening Microsoft Word,Success
+2025-04-18 10:28:55,camera,Camera activated,Success
+2025-04-18 10:29:05,open google,Opening Google,Success
+2025-04-18 10:29:30,google scholar,Searching for: scholar,Success
+2025-04-18 10:29:46,yah theek hai,"Okay.  What can I help you with now?
+",Success
+2025-04-18 10:29:59,230,"230.  Is there anything I can do with this number?
+",Success
+2025-04-18 10:30:10,volume to 30,Volume adjusted,Success
+2025-04-18 10:30:48,book to reach,"""Book to reach 230...""  I'm not sure I understand. Do you mean you want to book something, like a ticket, and the target number is 230? Or are you referring to page 230 of a book? Please clarify.
+",Success
+2025-04-18 10:31:22,book to reach kiya to yah hamen bata raha hai ki kya nahin kar paye,"I'm still having trouble understanding. It seems like you're asking about a booking or reservation and whether it was successful, but I need more context. Could you rephrase your request? What are you trying to book, and what is the problem you are encountering?
+",Success
+2025-04-18 10:31:38,suggest book to read,"What genres do you enjoy?  Fiction/non-fiction? Any preferred authors or topics?
+",Success
+2025-04-18 10:31:56,friction book,"What kind of fiction?  Sci-fi, fantasy, thriller, romance, historical fiction, etc.?
+",Success
+2025-04-18 10:32:15,thriller,"*  ""The Silent Patient"" by Alex Michaelides
+*  ""Gone Girl"" by Gillian Flynn
+*  ""The Guest List"" by Lucy Fokley
+
+
+",Success
+2025-04-18 10:32:30,mehboob want to close what time today,The current time is 10:32 AM,Success
+2025-04-18 10:32:55,line,"""Line"" refers to many things.  Do you mean:
+
+* A line of text?
+* A drawing line?
+* A phone line?
+* A queue/waiting line?
+* Something else?  Please clarify.
+",Success
+2025-04-18 10:33:05,offline,Shutting down Jarvis,Success
